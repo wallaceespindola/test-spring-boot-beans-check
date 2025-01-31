@@ -1,0 +1,35 @@
+# Add main ignores for a java project
+
+# Ignore all files in the target directory
+/target/
+
+# Ignore all .class files
+*.class
+
+# Ignore all .jar files
+*.jar
+
+# Ignore all .war files
+*.war
+
+# Ignore all .ear files
+*.ear
+
+# Ignore all .zip files
+*.zip
+
+# Ignore all .tar.gz files
+*.tar.gz
+
+# Ignore all .rar files
+*.rar
+
+# Ignore all .tar.bz2 files
+*.tar.bz2
+
+# Ignore all .tar.xz files
+*.tar.xz
+
+# IntelliJ IDEA files
+*.iml
+.idea
